@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Test">
+	<test name="Regression Test">
+
+		<packages>
+		<package name="selenium.pack"></package>
+		<package name="testng.concepts.pack"></package>
+		</packages>
+
+	</test>
+</suite> 
